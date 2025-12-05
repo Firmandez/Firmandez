@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there, I'm Firmandez! 👋
 
-<!--
-**Firmandez/Firmandez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm just an Information Systems student who enjoys fixing computers and writing code. Still exploring many things in tech!
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **C# .NET & Advanced Networking**
+- 🔭 Working on my first big project: **Orion Toolkit Launcher**
+- 💼 Helping out as a **Lab Assistant** at FTI UKSW
+- ⚡ Fun fact: I spend more time debugging than coding.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**My Tech Journey:**
+C# | WPF | Networking | Hardware Troubleshooting
+
+[Link LinkedIn]
