@@ -2,7 +2,7 @@
 
 I'm just an Information Systems student who enjoys fixing computers and writing code. Still exploring many things in tech!
 
-- 🌱 I’m currently learning **C# .NET, Multimedia Advanced Networking**
+- 🌱 I’m currently learning **C# .NET, Multimedia & Networking**
 - 🔭 Working on my first big project: **Orion Toolkit Launcher**
 - 💼 Helping out as a **IT Support** & **Live Production Crew** at Faculty of Information Technology
 - ⚡ Fun fact: I'm basically a professional AI Prompter who occasionally writes code.
