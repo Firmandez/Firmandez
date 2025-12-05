@@ -2,12 +2,12 @@
 
 I'm just an Information Systems student who enjoys fixing computers and writing code. Still exploring many things in tech!
 
-- 🌱 I’m currently learning **C# .NET & Advanced Networking**
+- 🌱 I’m currently learning **C# .NET, Multimedia Advanced Networking**
 - 🔭 Working on my first big project: **Orion Toolkit Launcher**
-- 💼 Helping out as a **Lab Assistant** at FTI UKSW
-- ⚡ Fun fact: I spend more time debugging than coding.
+- 💼 Helping out as a **IT Support** & **Live Production Crew** at Faculty of Information Technology
+- ⚡ Fun fact: I'm basically a professional AI Prompter who occasionally writes code.
 
 **My Tech Journey:**
 C# | WPF | Networking | Hardware Troubleshooting
 
-[Link LinkedIn]
+[www.linkedin.com/in/firmandez-febrian]
