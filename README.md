@@ -8,6 +8,6 @@ I'm just an Information Systems student who enjoys fixing computers and writing 
 - ⚡ Fun fact: I'm basically a professional AI Prompter who occasionally writes code.
 
 **My Tech Journey:**
-C# | WPF | Networking | Hardware Troubleshooting
+C# | WPF | Networking | Hardware Troubleshooting | Multimedia Crew
 
 [www.linkedin.com/in/firmandez-febrian]
