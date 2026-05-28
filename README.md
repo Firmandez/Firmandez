@@ -1,8 +1,9 @@
 ### Hi there, I'm Firmandez! 👋
 
-I'm just an Information Systems student who enjoys fixing computers and vibe coding. Still exploring many things in tech!
+I'm an Final-year Information Systems student and part-time IT Support who likes fixing computers, exploring tech stuff, and vibe coding random projects.
 
-- 💼 Helping out as an **IT Support** & **Live Production Crew** at Faculty of Information Technology
-- ⚡ Fun fact: I'm basically a professional AI Prompter who occasionally writes code.
+- 💼 IT Support & Live Production Crew at Faculty of Information Technology
+- 🔧 Usually dealing with technical problems and lab operations
+- ⚡ Probably spending too much time talking to AI
 
-[www.linkedin.com/in/firmandez-febrian]
+[LinkedIn](https://www.linkedin.com/in/firmandez-febrian)
